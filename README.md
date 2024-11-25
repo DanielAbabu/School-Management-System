@@ -13,7 +13,6 @@ The **School Management System (SMS)** is a comprehensive solution designed to s
 - **Fee Management**: Invoice generation, payment tracking, and financial reporting.
 - **Academic Management**: Course creation, examination scheduling, and report card generation.
 - **Communication Tools**: Messaging, notifications, and announcements for parents, teachers, and students.
-- **Reporting and Analytics**: Insights on attendance, academic performance, and financial metrics.
 
 ## Technology Stack
 
